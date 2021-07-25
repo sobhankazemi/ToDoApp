@@ -1,0 +1,6 @@
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.Tools\bin\Debug\ToDo.Tools.dll
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.Tools\bin\Debug\ToDo.Tools.pdb
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.Tools\obj\Debug\ToDo.Tools.csprojAssemblyReference.cache
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.Tools\obj\Debug\ToDo.Tools.csproj.CoreCompileInputs.cache
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.Tools\obj\Debug\ToDo.Tools.dll
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.Tools\obj\Debug\ToDo.Tools.pdb

@@ -1,0 +1,12 @@
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\bin\Debug\ToDo.DataLayer.dll.config
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\bin\Debug\ToDo.DataLayer.dll
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\bin\Debug\ToDo.DataLayer.pdb
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\obj\Debug\ToDo.DataLayer.csprojAssemblyReference.cache
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\obj\Debug\ToDo.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\obj\Debug\ToDo.DataLayer.csproj.CopyComplete
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\obj\Debug\ToDo.DataLayer.dll
+C:\Users\Sonham\Desktop\c# things\ToDo\ToDo.DataLayer\obj\Debug\ToDo.DataLayer.pdb
